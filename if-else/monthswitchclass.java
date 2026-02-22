@@ -1,3 +1,4 @@
+// Checking the month with Switch case :- 
 
 import java.util.Scanner;
 public class monthswitchclass {
@@ -51,3 +52,4 @@ public class monthswitchclass {
     }
 
 }
+
