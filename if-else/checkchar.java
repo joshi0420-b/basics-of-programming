@@ -1,3 +1,4 @@
+// Check the Char :- 
 
 import java.util.Scanner ;
 public class checkchar {
@@ -21,3 +22,4 @@ public class checkchar {
         }
     }
 }
+
