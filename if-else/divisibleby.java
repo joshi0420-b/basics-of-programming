@@ -1,3 +1,4 @@
+// check the number is divisable by 3 & 5 :- 
 
 import java.util.Scanner ;
 public class divisibleby {
@@ -15,3 +16,4 @@ public class divisibleby {
         }
     }
 }
+
