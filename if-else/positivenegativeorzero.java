@@ -1,3 +1,4 @@
+// Checking the number is positive negative or zero :- 
 
 import java.util.Scanner;
 public class positivenegativeorzero {
@@ -18,3 +19,4 @@ public class positivenegativeorzero {
         }
     }
 }
+
