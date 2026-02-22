@@ -1,4 +1,5 @@
 // print the Ap of n Number :-
+
 import java.util.Scanner;
 public class Apofnterm {
     public static void main(String[] args) {
@@ -12,4 +13,5 @@ public class Apofnterm {
         }
     }
 }
+
 
