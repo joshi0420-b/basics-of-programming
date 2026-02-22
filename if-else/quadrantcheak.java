@@ -1,3 +1,4 @@
+// Checking the point is laying in which quadrant :- 
 
 import java.util.Scanner ;
 public class quadrantcheak {
@@ -25,3 +26,4 @@ public class quadrantcheak {
         }
     }
 }
+
