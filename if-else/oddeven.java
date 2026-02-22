@@ -1,3 +1,4 @@
+// Check the number is odd or even :- 
 
 import java.util.Scanner;
 public class oddeven {
@@ -13,3 +14,4 @@ public class oddeven {
         }
     }
 }
+
