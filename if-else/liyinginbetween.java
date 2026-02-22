@@ -1,3 +1,4 @@
+// Check the number is liying between 99 & 999 :-
 
 import java.util.Scanner;
 public class liyinginbetween {
@@ -15,3 +16,4 @@ public class liyinginbetween {
         }
     }
 }
+
