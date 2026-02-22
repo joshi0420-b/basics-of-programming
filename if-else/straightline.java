@@ -1,3 +1,4 @@
+// Checking Entered points are making a Straight line or not :- 
 
 import java.util.Scanner ;
 public class straightline {
@@ -27,3 +28,4 @@ public class straightline {
         }
     }
 }
+
