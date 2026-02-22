@@ -1,3 +1,4 @@
+// Print the absolute of any number :- 
 
 import java.util.Scanner;
 public class absolute {
@@ -17,3 +18,4 @@ public class absolute {
         }
     }
 }
+
