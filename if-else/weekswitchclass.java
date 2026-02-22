@@ -1,3 +1,4 @@
+// Checking the week with switch case :-
 
 import java.util.Scanner;
 public class weekswitchclass {
@@ -31,3 +32,4 @@ public class weekswitchclass {
         }
     }
 }
+
